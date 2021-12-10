@@ -1,0 +1,17 @@
+ul{
+    line-height: 70px;
+    list-style-type: none;
+}
+a{
+    color: #c81117;
+}
+.num2{
+    background-color: #c81117;
+    color: #fff;
+    text-decoration: none;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.num3{
+    color: #Dcd;
+}
